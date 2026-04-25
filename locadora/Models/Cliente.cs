@@ -1,5 +1,4 @@
 namespace Models;
-
 public class Cliente
 {
     public Cliente(Endereco endereco, string nome, string cpf, string email, string telefone)

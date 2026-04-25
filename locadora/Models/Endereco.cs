@@ -1,5 +1,4 @@
 namespace Models;
-
 public class Endereco
 {
     public Endereco(string cep, string logradouro, string numero, string complemento, string bairro, string cidade, string estado)
